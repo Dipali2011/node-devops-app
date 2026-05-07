@@ -10,7 +10,7 @@ app.get("/health", (req, res) => {
 
 // Sample API
 app.get("/", (req, res) => {
-  res.send("Hello from DevOps Project 🚀");
+  res.send("Hello from DevOps Project 🚀.");
 });
 
 // Metrics endpoint (basic)
